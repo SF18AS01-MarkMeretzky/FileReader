@@ -5,7 +5,7 @@
 //  Created by Mark Meretzky on 1/7/19.
 //  Copyright © 2019 New York University School of Professional Studies. All rights reserved.
 //
-//  Print a random name each time this project is run.
+//  Print a random name each time this app is run.
 //  To create this project in Xcode:
 //  Pull down File -> New -> File...
 //  Choose a template for your new file: iOS
